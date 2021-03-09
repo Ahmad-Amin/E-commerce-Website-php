@@ -1,0 +1,13 @@
+In order to succesfully run the program in your LocalHost. You first have to make a database named as 'ecommerce' and then import all the table files gien in the folder tables [I hope if everything goes right then it will work perfectly]
+
+Make Your imports in an order like
+1. featuredproducts.sql
+2. fdcproduct.sql
+3. categoryproducts.sql
+4. userrecord.sql 
+
+
+
+In order to access the admin panel than go the the address 
+
+--> http://localhost/Web-Project/admin(1)/indexadmin.php  <--
